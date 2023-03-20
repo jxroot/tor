@@ -6,19 +6,18 @@
 <p align="center">
   <b>tor traffic under openvpn !</b>
     </p>
-<p align="center">
-  <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/node-18.2.0-green" alt="php">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/platform-Windows-red">
-  </a>
-   <img src="https://img.shields.io/badge/npm-8.9.0-blue" 
-   alt="adb">
-      <img src="https://img.shields.io/badge/License-MIT-yellow" 
-   alt="adb">
-   <a href="https://www.codefactor.io/repository/github/jxroot/promoxy">  <img src="https://www.codefactor.io/repository/github/jxroot/adbwebkit/badge" alt="CodeFactor" /> </a>
-   
-<p align="center"><img src="https://fizoofood.com/bombs.gif" alt="enter image description here"></p>
+<h2>💿 Installation And Usage</h2>
+
+```
+ git clone https://github.com/jxroot/promoxy
+ cd promoxy
+ npm install
+ node bomber.js 9128321234
+```
+<h2 id="operating-systems-tested">💻 Operating Systems Tested</h2>
+<ul>
+
+<li>Windows 11</li>
+</ul>
 
   
