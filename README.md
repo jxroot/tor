@@ -1,6 +1,5 @@
-<h3 align="center"><img src="https://fizoofood.com/sms-bomber-apkresult.jpg" alt="logo" height="250px"></h3>
+<h3 align="center"><img src="https://assets.stickpng.com/images/58482c27cef1014c0b5e4a3a.png" alt="logo" height="250px"></h3>
 <p align="center">
-    <b>Promoxy</b><br>
     </p>
 <hr>
 <p align="center">
