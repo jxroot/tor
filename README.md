@@ -4,7 +4,7 @@
     </p>
 <hr>
 <p align="center">
-  <b>Powerful And Fast SMS  Bomber !</b>
+  <b>tor traffic under openvpn !</b>
     </p>
 <p align="center">
   <a href="https://nodejs.org">
