@@ -6,7 +6,7 @@
   <b>tor traffic under openvpn !</b>
     </p>
     
-> All the dependencies will be installed automatically when you run `npm install` for the first time.
+> You Need Install And Config  `OpenVpn` for the first time After That Just Set Port Number.
 
 <h2>💿 Installation And Usage</h2>
 
