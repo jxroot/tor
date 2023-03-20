@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://assets.stickpng.com/images/58482c27cef1014c0b5e4a3a.png" alt="logo" height="250px"></h3>
+<h3 align="center"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/openvpn_104297.png" alt="logo" height="250px"></h3>
 <p align="center">
     </p>
 <hr>
