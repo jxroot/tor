@@ -9,15 +9,8 @@
 <h2>💿 Installation And Usage</h2>
 
 ```
- git clone https://github.com/jxroot/promoxy
- cd promoxy
- npm install
- node bomber.js 9128321234
-```
-<h2 id="operating-systems-tested">💻 Operating Systems Tested</h2>
-<ul>
+bash <(curl -Ls https://raw.githubusercontent.com/jxroot/tor/master/tor.sh)
 
-<li>Windows 11</li>
-</ul>
+```
 
   
