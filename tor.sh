@@ -2,11 +2,10 @@
 apt update -y
 apt install tor -y 
 service tor stop
-export PORT=1194
 echo ' VirtualAddrNetwork 10.192.0.0/10
        AutomapHostsOnResolve 1
        DNSPort 10.8.0.1:53530
-       TransPort 10.8.0.1:$PORT' >> /etc/tor/torrc
+       TransPort 10.8.0.1:1194' >> /etc/tor/torrc
 service tor start
 echo '
 #!/bin/bash
