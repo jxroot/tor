@@ -5,8 +5,14 @@
 <p align="center">
   <b>tor traffic under openvpn !</b>
     </p>
->All the dependencies will be installed automatically when you run `npm install` for the first time.
-first you need install and config openvpn after that install tor and set port
+<h2>🛠  Dependencies</h2>
+
+requires following module 
+- `axios`
+- `colors`
+
+
+> All the dependencies will be installed automatically when you run `npm install` for the first time.
 <h2>💿 Installation And Usage</h2>
 
 ```
